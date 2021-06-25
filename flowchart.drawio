@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T12:09:53.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.1" etag="RXyYMVE723Qhf-HIgSN-" type="github"><diagram id="xMNPE9Dykgw9Vnchn0US">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-25T12:15:07.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="7xkJpwTHVAXWvhayq_wk" version="14.8.1" type="github">
+  <diagram id="xMNPE9Dykgw9Vnchn0US" name="Page-1">
+    <mxGraphModel dx="1052" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JoPF2L3YlqwSRABoRisg-1" value="SIM Klinik" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="600" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="JoPF2L3YlqwSRABoRisg-2" value="Pasien" style="swimlane;startSize=20;" vertex="1" parent="JoPF2L3YlqwSRABoRisg-1">
+          <mxGeometry y="20" width="120" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="JoPF2L3YlqwSRABoRisg-7" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JoPF2L3YlqwSRABoRisg-2">
+          <mxGeometry x="20" y="30" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JoPF2L3YlqwSRABoRisg-3" value="Petugas RM" style="swimlane;startSize=20;" vertex="1" parent="JoPF2L3YlqwSRABoRisg-1">
+          <mxGeometry x="120" y="20" width="120" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="JoPF2L3YlqwSRABoRisg-4" value="Dokter" style="swimlane;startSize=20;" vertex="1" parent="JoPF2L3YlqwSRABoRisg-1">
+          <mxGeometry x="240" y="20" width="120" height="660" as="geometry">
+            <mxRectangle x="240" y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JoPF2L3YlqwSRABoRisg-5" value="Apoteker" style="swimlane;startSize=20;" vertex="1" parent="JoPF2L3YlqwSRABoRisg-1">
+          <mxGeometry x="360" y="20" width="120" height="660" as="geometry">
+            <mxRectangle x="240" y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JoPF2L3YlqwSRABoRisg-6" value="Kasir" style="swimlane;startSize=20;" vertex="1" parent="JoPF2L3YlqwSRABoRisg-1">
+          <mxGeometry x="480" y="20" width="120" height="660" as="geometry">
+            <mxRectangle x="240" y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
